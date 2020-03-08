@@ -2,3 +2,4 @@
 <p>
 These are all the dotfiles I use for Openbox.
 </p>
+<img src="desktop.png"/>
